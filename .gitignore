@@ -1,0 +1,36 @@
+# Setup files (large files — do not upload to GitHub)
+*.exe
+*.msi
+*.zip
+*.rar
+*.iso
+
+# OS junk files
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.cache
+
+# Video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# Cache files
+*.cache
+*.thumb
+*.preview

